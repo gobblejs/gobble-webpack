@@ -1,0 +1,19 @@
+{
+  "name": "gobble-webpack",
+  "version": "0.1.0",
+  "description": "Bundle javascript modules with webpack in your GobbleJS workflow",
+  "main": "gobble-webpack.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvanSanchez/gobble-webpack.git"
+  },
+  "keywords": [
+    "gobble",
+    "webpack"
+  ],
+  "author": "Iván Sánchez Ortega <ivan@sanchezortega.es>",
+  "license": "Beerware",
+  "dependencies": {
+    "webpack": "^1.12.9"
+  }
+}
